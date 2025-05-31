@@ -22,7 +22,7 @@ You'll be asked to input a UEN:
 Enter a UEN to validate: 000012345X
 Wrong UEN.
 
-Enter a UEN to validate: 201912345Z
+Enter a UEN to validate: 20191234Z
 Valid UEN!
 
 ```
